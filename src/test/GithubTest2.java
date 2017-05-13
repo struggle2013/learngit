@@ -2,7 +2,7 @@ package test;
 
 public class GithubTest2 {
 	public void githubTest(){
-		System.out.println("再次更新");
+		System.out.println("杈撳嚭涓�涓暟");
 		
 	}
 }
